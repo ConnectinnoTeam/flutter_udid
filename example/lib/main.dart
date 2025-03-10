@@ -1,6 +1,6 @@
-import 'package:flutter/material.dart';
 import 'dart:async';
 
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_udid/flutter_udid.dart';
 
@@ -26,6 +26,7 @@ class _MyAppState extends State<MyApp> {
     String udid;
     try {
       udid = await FlutterUdid.udid;
+      print(udid);
     } on PlatformException {
       udid = 'Failed to get UDID.';
     }

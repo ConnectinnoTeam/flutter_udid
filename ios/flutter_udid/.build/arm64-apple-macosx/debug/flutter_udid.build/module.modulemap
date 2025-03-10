@@ -1,0 +1,4 @@
+module flutter_udid {
+    header "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/flutter_udid-Swift.h"
+    requires objc
+}

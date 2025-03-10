@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/master.swiftdeps"
+  },
+  "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/Sources/flutter_udid/FlutterUdidPlugin.swift": {
+    "dependencies": "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/FlutterUdidPlugin.d",
+    "object": "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/FlutterUdidPlugin.swift.o",
+    "swiftmodule": "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/FlutterUdidPlugin~partial.swiftmodule",
+    "swift-dependencies": "/Users/aligundogdu/Desktop/projects/flutter_udid/ios/flutter_udid/.build/arm64-apple-macosx/debug/flutter_udid.build/FlutterUdidPlugin.swiftdeps"
+  }
+}

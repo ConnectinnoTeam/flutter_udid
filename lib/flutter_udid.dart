@@ -1,7 +1,8 @@
 import 'dart:async';
+import 'dart:convert';
+
 import 'package:crypto/crypto.dart';
 import 'package:flutter/services.dart';
-import 'dart:convert';
 
 /// API to retrieve a unique device ID of the device the Flutter
 /// app is currently running on.
